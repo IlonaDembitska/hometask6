@@ -1,4 +1,5 @@
 # Hometask 6 – Vagrant + VirtualBox + LVM
+Дембіцька Ілона
 
 ## Опис
 У цьому завданні створюється віртуальна машина на основі generic/ubuntu2204 з використанням Vagrant та VirtualBox.  
